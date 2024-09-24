@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: "Determination Sans Web";
+}
+
+p {
+    border: 5px, solid, white;
+    color: white;
+    margin: auto 75px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+h1 {
+    color: white;
+    font-family: "Monster Friend Fore Regular";
+    font-size: 50;
+    margin: 30px auto;
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    font-family: "Determination Mono Web";
+    font-size: 20;
+    margin: 30px auto;
+    display: block;
+    text-align: center;
+}
+
+a {
+    color: hotpink;
+}
+
+b {
+    color: yellow;
+    font-weight: normal;
+}
