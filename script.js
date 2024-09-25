@@ -1,0 +1,1 @@
+// See, the joke is that I hate JavaScript and refuse to use it for anything.

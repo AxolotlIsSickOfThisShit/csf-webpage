@@ -1,15 +1,18 @@
 @font-face {
     font-family: 'Monster Friend Fore Regular';
-    src:url("Assets/MonsterFriendFore.otf");
+    src: url("Assets/MonsterFriendFore.otf");
 }
-@font-face{
-    font-family:'Determination Sans Web';
-    src:url("Assets/DeterminationSansWebRegular.ttf")
+
+@font-face {
+    font-family: 'Determination Sans Web';
+    src: url("Assets/DeterminationSansWebRegular.ttf")
 }
-@font-face{
-    font-family:'Determination Mono Web';
-    src:url("Assets/DeterminationMonoWebRegular.ttf")
+
+@font-face {
+    font-family: 'Determination Mono Web';
+    src: url("Assets/DeterminationMonoWebRegular.ttf")
 }
+
 body {
     background-color: black;
     font-family: "Determination Sans Web";
