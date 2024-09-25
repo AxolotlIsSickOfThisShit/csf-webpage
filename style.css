@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Monster Friend Fore Regular';
+    src:local("Assets/MonsterFriendFore.otf");
+}
+@font-face{
+    font-family:'Determination Sans Web';
+    src:local("Assets/DeterminationSansWebRegular.ttf")
+}
+@font-face{
+    font-family:'Determination Mono Web';
+    src:local("Assets/DeterminationMonoWebRegular.ttf")
+}
 body {
     background-color: black;
     font-family: "Determination Sans Web";
