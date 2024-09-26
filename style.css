@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: 'Determination Sans Web';
-    src: url("Assets/DeterminationSansWebRegular-369X.otf")
+    src: url("Assets/DeterminationSansWebRegular-369X.otf");
 }
 
 @font-face {
     font-family: 'Determination Mono Web';
-    src: url("Assets/DeterminationMonoWebRegular-Z5oq.otf")
+    src: url("Assets/DeterminationMonoWebRegular-Z5oq.otf");
 }
 
 body {
